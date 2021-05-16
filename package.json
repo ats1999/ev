@@ -1,0 +1,19 @@
+{
+  "name": "ev",
+  "version": "1.0.0",
+  "description": "This is the  first fake",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ats1999/ev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ats1999/ev/issues"
+  },
+  "homepage": "https://github.com/ats1999/ev#readme"
+}
